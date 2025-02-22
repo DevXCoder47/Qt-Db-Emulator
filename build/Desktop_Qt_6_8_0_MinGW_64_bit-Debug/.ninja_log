@@ -1,0 +1,44 @@
+# ninja log v6
+9	573	7606335872090238	QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+576	3964	7606335872590256	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	cdfe98f237af27e2
+9	573	7606335872090238	QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+574	3544	7606335872570257	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	ac2e5fd82692851a
+575	3663	7606335872580244	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	f99f27c7bae79331
+3965	5036	7606335906480256	QtModelEmulator.exe	a9f7743f2a6d5d3b
+9	573	7606335872090238	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	573	7606335872090238	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+577	3883	7606335872600251	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	37e29e9eaed70715
+9	560	7606349945327013	QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	560	7606349945327013	QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+9	560	7606349945327013	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	560	7606349945327013	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+564	3097	7606349945826999	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	dd8835d8cc05ddf5
+560	3398	7606349945786992	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	ac2e5fd82692851a
+561	3437	7606349945797005	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	f99f27c7bae79331
+563	3732	7606349945817003	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	37e29e9eaed70715
+562	3749	7606349945806998	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	cdfe98f237af27e2
+3749	4044	7606349977677008	QtModelEmulator.exe	8971e02950dd5b91
+9	102	7606352112522598	QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	102	7606352112522598	QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+9	102	7606352112522598	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	102	7606352112522598	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+104	2443	7606352113475986	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	dd8835d8cc05ddf5
+103	2758	7606352113465987	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	37e29e9eaed70715
+102	2821	7606352113456025	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	cdfe98f237af27e2
+2821	3105	7606352140635994	QtModelEmulator.exe	8971e02950dd5b91
+9	104	7606352431140471	QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	104	7606352431140471	QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+9	104	7606352431140471	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	104	7606352431140471	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+106	2438	7606352432110627	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	dd8835d8cc05ddf5
+105	2755	7606352432100961	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	37e29e9eaed70715
+104	2812	7606352432090933	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	cdfe98f237af27e2
+2812	3084	7606352459170669	QtModelEmulator.exe	8971e02950dd5b91
+9	111	7606352575587177	QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	111	7606352575587177	QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+9	111	7606352575587177	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/timestamp	c73a6b8387091adb
+9	111	7606352575587177	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	c73a6b8387091adb
+113	2468	7606352576633920	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	dd8835d8cc05ddf5
+113	2788	7606352576623690	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	37e29e9eaed70715
+111	2839	7606352576613683	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	cdfe98f237af27e2
+2840	3102	7606352603893702	QtModelEmulator.exe	8971e02950dd5b91

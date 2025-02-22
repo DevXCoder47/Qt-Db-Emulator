@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f6d4c922d93ba9129724.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtModelEmulator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QtModelEmulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtModelEmulator-Debug-6896942276a0da88a575.json",
+					"name" : "QtModelEmulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtModelEmulator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtModelEmulator_autogen-Debug-03a6221eb187a4800882.json",
+					"name" : "QtModelEmulator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QtModelEmulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QtModelEmulator_autogen_timestamp_deps-Debug-55a365a1b9c70fd9adec.json",
+					"name" : "QtModelEmulator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug",
+		"source" : "P:/Qt Projects/QtModelEmulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

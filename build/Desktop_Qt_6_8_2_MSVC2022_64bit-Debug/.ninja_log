@@ -1,0 +1,105 @@
+# ninja log v6
+503	4135	7613140811964938	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+258	488	7613140809514916	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+1195	6214	7612526804702281	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+1193	6225	7612526804682248	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+258	488	7613140809514916	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+258	488	7613140809514916	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+258	488	7613140809514916	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+128	3180	7612530852123060	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	39d4322bef22ce2f
+505	3808	7613140811984944	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+4135	5230	7613140848279366	QtModelEmulator.exe	195bc22490c167d2
+14	602	7611617694920994	build.ninja	266640ad8ab31187
+269	617	7613144586307824	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+269	617	7613144586307824	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+269	617	7613144586307824	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+269	617	7613144586307824	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+622	4213	7613144589837850	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+619	4568	7613144589807846	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+4568	5251	7613144629287814	QtModelEmulator.exe	195bc22490c167d2
+299	1439	7613149357946801	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+299	1439	7613149357946801	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+299	1439	7613149357946801	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+299	1439	7613149357946801	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+1446	5776	7613149358886832	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+1450	5785	7613149358926801	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+1448	5876	7613149358906816	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+1441	5960	7613149358846840	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+5961	7540	7613149404036806	QtModelEmulator.exe	195bc22490c167d2
+262	775	7613170740181246	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+262	775	7613170740181246	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+262	775	7613170740181246	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+262	775	7613170740181246	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+780	6181	7613170740701241	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+777	6190	7613170740671243	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+784	6200	7613170740741235	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+782	6213	7613170740721219	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+786	6363	7613170740761222	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	39d4322bef22ce2f
+6364	7188	7613170796536394	QtModelEmulator.exe	195bc22490c167d2
+48	142	7613171493951659	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+48	142	7613171493951659	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+48	142	7613171493951659	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+48	142	7613171493951659	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+146	3394	7613171494931683	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+144	3614	7613171494911655	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+3615	3852	7613171529621670	QtModelEmulator.exe	195bc22490c167d2
+49	592	7613173824041290	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+49	592	7613173824041290	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+49	592	7613173824041290	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+49	592	7613173824041290	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+616	5532	7613173824791309	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+614	5542	7613173824771307	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+612	5551	7613173824751295	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+618	5560	7613173824811306	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+5561	5843	7613173874241264	QtModelEmulator.exe	195bc22490c167d2
+254	821	7615818890032590	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+254	821	7615818890032590	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+254	821	7615818890032590	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+254	821	7615818890032590	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+851	5382	7615818890892584	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	39d4322bef22ce2f
+846	5491	7615818890842604	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+849	5506	7615818890882603	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+844	5561	7615818890822595	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+848	5850	7615818890862600	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+5850	6720	7615818940892583	QtModelEmulator.exe	195bc22490c167d2
+46	506	7615838625531484	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+46	506	7615838625531484	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+46	506	7615838625531484	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+46	506	7615838625531484	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+508	5347	7615838626001467	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+510	5364	7615838626021449	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+515	5373	7615838626071459	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	39d4322bef22ce2f
+513	5393	7615838626061459	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+43	141	7615839057638215	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+43	141	7615839057638215	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+43	141	7615839057638215	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+43	141	7615839057638215	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+144	3460	7615839058655154	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+142	3624	7615839058625139	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+3625	4135	7615839093456653	QtModelEmulator.exe	195bc22490c167d2
+48	140	7615962115419957	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+48	140	7615962115419957	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+48	140	7615962115419957	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+48	140	7615962115419957	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+141	3288	7615962116349977	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+145	3297	7615962116389956	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+143	3454	7615962116369949	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+3454	3704	7615962149479932	QtModelEmulator.exe	195bc22490c167d2
+345	907	7616693655730945	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+345	907	7616693655730945	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+345	907	7616693655730945	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+345	907	7616693655730945	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+910	5841	7616693656300966	CMakeFiles/QtModelEmulator.dir/QtModelEmulator_autogen/mocs_compilation.cpp.obj	7049b3e9d0b5096f
+916	5850	7616693656370965	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+918	5878	7616693656390966	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	39d4322bef22ce2f
+912	5887	7616693656330978	CMakeFiles/QtModelEmulator.dir/main.cpp.obj	71dc5d5cf3c97114
+914	5996	7616693656350970	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+5997	6920	7616693707180926	QtModelEmulator.exe	195bc22490c167d2
+49	137	7616695088906360	QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+49	137	7616695088906360	QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+49	137	7616695088906360	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/timestamp	5c45a3093a2ee9c1
+49	137	7616695088906360	P:/Qt Projects/QtModelEmulator/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/QtModelEmulator_autogen/mocs_compilation.cpp	5c45a3093a2ee9c1
+140	2865	7616695089816363	CMakeFiles/QtModelEmulator.dir/authwindow.cpp.obj	cc032aa19e9a7588
+142	2918	7616695089836377	CMakeFiles/QtModelEmulator.dir/dbmanager.cpp.obj	39d4322bef22ce2f
+138	3295	7616695089796382	CMakeFiles/QtModelEmulator.dir/mainwindow.cpp.obj	84c33be6f87e2810
+3295	3519	7616695121374763	QtModelEmulator.exe	195bc22490c167d2
